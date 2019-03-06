@@ -1,0 +1,11 @@
+def weekend(day):
+    return day in ('Saturday', 'Sunday')
+    
+print weekend('Monday')
+#>>> False
+
+print weekend('Saturday')
+#>>> True
+
+print weekend('July')
+#>>> False
