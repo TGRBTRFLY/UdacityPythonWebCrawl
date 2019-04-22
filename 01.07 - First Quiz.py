@@ -9,8 +9,7 @@
 # Click the "Test Run" button below to try running your code and see the output,
 # and click "Submit" to submit your answer.
 
-print
-7 * 7 * 24 * 60
+print(7 * 7 * 24 * 60)
 # How to Run program from Notepad++ to Command Line
 # Save As <file name>.py
 # F5
